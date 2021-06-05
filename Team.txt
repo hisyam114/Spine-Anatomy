@@ -1,0 +1,53 @@
+Spine Anatomy
+Kelompok 3, Kelompok 6, dan Kelompok 34.
+
+Nama Anggota : 
+- Achmad Hisyam - 1402018192
+- Aisyah Diah Atikah - 1402018070
+- Nurjanah - 1402018079
+- Gilang Raihansyah - 1402018161
+- Dwi Mustikasari - 1402018219
+- Fauzaa Rahmatul .I - 1402018082
+- Andhika Cesario .P - 1402017016
+- Ferdian Kriswanto - 1402017055
+- Ahmad Choirul - 1402017157
+
+Pembagian Kerja
+
+Figma Design ( Achmad Hisyam, Aisyah Diah Atikah, Nurjanah, Fauzaa Rahmatul .I)
+https://www.figma.com/file/lQkAFKYt2BJK9h3T243746/Spine-Anatomy-V.2?node-id=7%3A35
+
+Sprites Component ( Achmad Hisyam, Aisyah Diah Atikah, Nurjanah )
+
+Flow Diagram ( Dwi Mustikasari, Nurjanah, Aisyah Diah Atikah)
+
+Poster & Presentation (Aisyah Diah Atikah, Nurjanah, Dwi Mustikasari)
+
+Main Menu Scene: (Andhika Cesario, Ferdian Kriswanto, Ahmad Choirul, Achmad Hisyam, Aisyah Diah Atikah, Nurjanah, Gilang Raihansyah)
+- UI Menu ( play, kuis, exit, Music, Button About)
+
+Kuis Scene: (Nurjanah, Aisyah Diah Atikah, Fauzaa Rahmatul .I, Achmad Hisyam, Dwi Mustikasari)
+- Pertanyaan kuis
+- Score
+- UI kuis
+- Timer Kuis
+- Music
+
+Scene Play1: 
+- Basic 3D Rotating, UI, & Panel Pop up (Gilang Raihansyah, Andhika Cesario, Ferdian Kriswanto, Ahmad Choirul)
+- UI (Achmad Hisyam, Aisyah)
+- Animation Fade & Music (Gilang Raihansyah)
+
+Scene Play2:
+- Basic 3D rotating, UI, & panel pop up (Gilang Raihansyah, Andhika Cesario, Ferdian Kriswanto, Ahmad Choirul)
+- UI (Achmad Hisyam, Aisyah)
+- Animation Fade & Music (Gilang Raihansyah)
+
+Scene About:
+- Basic UI (Nurjanah, Fauzaa Rahmatul .I, Aisyah Diah Atikah)
+- UI (Achmad Hisyam, Aisyah Diah Atikah)
+- Music (Nurjanah, Gilang Raihansyah)
+
+Combining File (Gilang Raihansyah)
+- Main Menu, Play1, Play2, About
+- Kuis
